@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "foundry-platform-sdk>=0.112.0",
-    "mcp>=1.23.0",
+    "mcp>=1.27.2",
     "pandas>=2.2.3",
     "pyarrow>=23.0.1",
 ]
